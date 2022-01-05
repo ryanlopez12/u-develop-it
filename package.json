@@ -1,7 +1,6 @@
 {
   "name": "utils",
   "version": "1.0.0",
-  "description": "",
   "main": "inputCheck.js",
   "scripts": {
     "test": "jest",
@@ -16,5 +15,6 @@
   },
   "devDependencies": {
     "jest": "^27.4.6"
-  }
+  },
+  "description": ""
 }
